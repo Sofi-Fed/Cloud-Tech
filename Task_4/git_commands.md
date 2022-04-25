@@ -64,7 +64,7 @@
 
 ```df``` - command is used **to get a full summary of available and used disk space usage of the file system on the Linux system**
 
-```killall` - command is used **to kill any running process on the system based on a given name**
+```killall``` - command is used **to kill any running process on the system based on a given name**
 
 ```ps``` - command is used **to list the status of processes running on your system easily**
 
