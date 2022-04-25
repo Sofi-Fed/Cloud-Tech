@@ -95,4 +95,3 @@
 ```head``` - command is used **to output the first part of files**
 
 ```tail``` - command is used **to output the last part of files**
-
